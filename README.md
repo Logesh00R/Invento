@@ -1,21 +1,31 @@
-# InventoryManagementSystem
-A software developed using Java SE which provides as easy way to track the products, suppliers, customers as well as purchase and
-sales information. It also records the stock currently available in the store. 
-  There are basically two users, Administrator and Normal User. Both the users can manage suppliers, products, customers and purchase and sell products.
-  The only difference between the two users is that the administrator can also view sales report and can also manage other users.
+# Inventory Management System
+An Inventory Management System software for desktop to manage inventory.
 
-Download .sql file for this application: https://drive.google.com/file/d/0Bw-qNYNSGhdCN09YZDV6SmtRN00/view?usp=sharing&resourcekey=0-g98Gi5ErSgzV-Jit-4Ow6Q
+## Screenshots
 
-Download required third party plugins (includes JCalender, JTattoo and SQLConnector) : https://drive.google.com/file/d/0Bw-qNYNSGhdCMU1mekN4SmRCb1E/view?usp=sharing&resourcekey=0-mynFCWwHM0l7oUuBwDIVbw
+![Screenshot 1](https://github.com/nixrajput/inventory-management-system/blob/master/Screenshot%20(1).png)
 
-Download the software only: https://drive.google.com/file/d/0Bw-qNYNSGhdCbVdSdzZHX0pZOFE/view?usp=sharing&resourcekey=0-Q9wY-we5-vgs26YpPMrYaQ
+![Screenshot 2](https://github.com/nixrajput/inventory-management-system/blob/master/Screenshot%20(2).png)
 
-Download full documentation for free: 
-- https://www.scribd.com/doc/296989740/InventoryManagementSystem-Sajan-Rajbhandari  
-- [Inventory-Management-System-Sajan-Rajbhandari.pdf](https://github.com/sazanrjb/InventoryManagementSystem/blob/master/docs/Inventory-Management-System-Sajan-Rajbhandari.pdf)
+![Screenshot 3](https://github.com/nixrajput/inventory-management-system/blob/master/Screenshot%20(3).png)
 
-Credentials:
+## App Features
 
-After importing the above sql file and adding the plugins, try using the credential username: `user4` and password: `test123`
+- Manage brand collections and status.
+- Manage category collections and status.
+- Manage product collections and status.
+- Manage orders received or delivered.
+- Print Invoices and Reports.
 
-Also make sure your mysql is username: `root` and password: `root`. If not change the credential in `../ims/src/com/inventory/database/ConnectionFactory.java` line no. 36 and 44.
+## Connect With Me
+
+[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
+
+[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/facebook-brands.svg" />][facebook]
+
+[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/twitter-brands.svg" />][twitter]
+
+[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
+
+[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
+
